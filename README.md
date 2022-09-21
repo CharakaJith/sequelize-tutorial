@@ -1,1 +1,1 @@
-# sequelize-tutorial-
+# sequelize-tutorial
